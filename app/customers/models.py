@@ -10,6 +10,7 @@ class Customer(models.Model):
     phone = models.CharField(max_length=10, null=True)
     address = models.TextField(blank=True, null=True)
     address1 = models.TextField(blank=True, null=True)
+    address2 = models.TextField(blank=True, null=True)
 
     
     def __str__(self):
