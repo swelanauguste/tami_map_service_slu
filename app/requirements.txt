@@ -1,0 +1,11 @@
+
+  
+black==21.5b2
+Django==3.2.4
+django-allauth==0.44.0
+django-crispy-forms==1.11.2
+django-environ==0.4.5
+django-hitcount==1.3.3
+isort==5.8.0
+Pillow==8.2.0
+pylint-django==2.4.4
